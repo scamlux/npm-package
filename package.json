@@ -1,0 +1,26 @@
+{
+  "name": "hex-btn-6",
+  "version": "1.0.4",
+  "description": "renderHex function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScamLux/npm-package.git"
+  },
+  "keywords": [
+    "hex",
+    "color",
+    "btn",
+    "renderHex",
+    "random"
+  ],
+  "author": "scamlux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScamLux/npm-package/issues"
+  },
+  "homepage": "https://github.com/ScamLux/npm-package#readme"
+}
